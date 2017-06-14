@@ -1,8 +1,6 @@
-#OpenSCAD Models
+# OpenSCAD Models
 
-**by Ty-Lucas Kelley**
-
---
+---
 
 This repo contains a collection of OpenSCAD files that I've created or discovered and modified.
 
